@@ -1,5 +1,3 @@
-# NoNo-library
-```
 local NoNolibrary = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
@@ -604,4 +602,3 @@ local AddTab:is8 = tab8
 local AddTab:is9 = tab9
 local AddTab:is10 = tab10
 local button = TextButton:Clone().Parent
-'''
