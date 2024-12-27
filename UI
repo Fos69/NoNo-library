@@ -1,5 +1,4 @@
 # NoNo-library
-pls stop hack you can get ban
 ```
 local NoNolibrary = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
