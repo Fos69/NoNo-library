@@ -1,7 +1,8 @@
+NoNo library v0.5 by: KinaDomina
+stop use executor in 1/3/2025 roblox ban wave
 ui
 ```
-local loadstring(game:httpget("https://raw.githubusercontent.com/Fos69/NoNo-library/refs/heads/main/UI"))() = NoNo_Hub
-NoNo_Hub
+loadstring(game:httpget("https://raw.githubusercontent.com/Fos69/NoNo-library/refs/heads/main/UI"))()
 ```
 title
 ```
@@ -19,4 +20,12 @@ addtab:is1 -- set 1 to your tab
 button
 ```
 button = o_tab1 -- set 1 to your tab
+```
+im make nono hub
+```
+loadstring(game:httpget("https://raw.githubusercontent.com/Fos69/NoNo-library/refs/heads/main/UI"))()
+title = "NoNo Hub"
+
+addtab:is1
+button = o_tab1
 ```
